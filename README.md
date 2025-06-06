@@ -6,6 +6,7 @@ Post-training plays a critical role in adapting pretrained LLMs to downstream ta
 - **A Survey on Post‑training of Large Language Models** (Tie et al., Mar 2025) — [arXiv:2503.06072](https://arxiv.org/abs/2503.06072)
 - **LLM Post‑Training: A Deep Dive into Reasoning Large Language Models** (Kumar et al., Feb 2025) — [arXiv:2502.21321](https://arxiv.org/abs/2502.21321)
 - **Instruction Tuning for Large Language Models: A Survey** (2023) — [arXiv:2308.10792](https://arxiv.org/abs/2308.10792)
+- **Large Language Models Post-training: Surveying Techniques from Alignment to Reasoning**(2025) -[arXiv:2503.06072v2](https://arxiv.org/html/2503.06072v2)
 - **A Survey on Data Selection for LLM Instruction Tuning** (Wang et al., Jan 2024) — [OpenReview](https://openreview.net/forum?id=pHz5AgraIe)
 
 ## Reinforcement Learning
