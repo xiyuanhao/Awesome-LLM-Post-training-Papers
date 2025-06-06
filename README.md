@@ -21,4 +21,5 @@ Post-training plays a critical role in adapting pretrained LLMs to downstream ta
 - **Advancing Tool‑Augmented LLMs: Error‑aware Inference Trees** (Chen et al., 2024) — [arXiv](https://arxiv.org/abs/2406.07115)
 - **Efficient Tool Use with Chain‑of‑Abstraction** (Gao et al., 2024) — [arXiv](https://arxiv.org/abs/2401.17464)
 - **IMP‑TIP: Improving Math Reasoning with Tool‑augmented Prompts** (2025) — [HuggingFace summary](https://huggingface.co/papers?q=tool‑augmented+LLMs)
+- **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**(2025)-[arXiv](https://arxiv.org/abs/2503.09516)
 
