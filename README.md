@@ -2,6 +2,11 @@
 A curated list of papers and resources on post-training techniques for Large Language Models (LLMs), including continual learning, instruction tuning, reinforcement learning with human feedback (RLHF), tool use, alignment, safety, and more.
 
 Post-training plays a critical role in adapting pretrained LLMs to downstream tasks, improving their reasoning, alignment, and usability in real-world applications. This repository aims to provide a structured and up-to-date reference for researchers, engineers, and enthusiasts in the field.
+## Survey
+- **A Survey on Post‑training of Large Language Models** (Tie et al., Mar 2025) — [arXiv:2503.06072](https://arxiv.org/abs/2503.06072)
+- **LLM Post‑Training: A Deep Dive into Reasoning Large Language Models** (Kumar et al., Feb 2025) — [arXiv:2502.21321](https://arxiv.org/abs/2502.21321)
+- **Instruction Tuning for Large Language Models: A Survey** (2023) — [arXiv:2308.10792](https://arxiv.org/abs/2308.10792)
+- **A Survey on Data Selection for LLM Instruction Tuning** (Wang et al., Jan 2024) — [OpenReview](https://openreview.net/forum?id=pHz5AgraIe)
 
 ## Reinforcement Learning
 
